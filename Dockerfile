@@ -1,4 +1,4 @@
-FROM jrottenberg/ffmpeg:vaapi
+FROM jrottenberg/ffmpeg:4.1
 
 WORKDIR /app
 
